@@ -19,7 +19,7 @@
 ### Prerequisites
 
 - Java Development Kit (JDK) installed
-- [Other dependencies...]
+- IDE
 
 ### Installation
 
