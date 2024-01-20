@@ -10,10 +10,6 @@
 
 - **Zoom In and Out:** The ability to zoom in and out enhances the user experience by adjusting the display.
 
-## Technologies Used
-
-- JavaFX: The project is built using JavaFX, a powerful framework for building interactive and visually appealing Java applications.
-
 ## Getting Started
 
 ### Prerequisites
