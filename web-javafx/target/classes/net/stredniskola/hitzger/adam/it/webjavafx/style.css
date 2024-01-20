@@ -1,0 +1,17 @@
+.anchor{
+    -fx-background-color: #FFF8E3;
+}
+
+.btn{
+    -fx-background-color: transparent;
+    -fx-border-radius: 50;
+}
+
+.btn:hover{
+    -fx-background-color: #FFFFFF;
+}
+
+.text{
+    -fx-border-color: #FFF8E3;
+    -fx-border-radius: 50;
+}
